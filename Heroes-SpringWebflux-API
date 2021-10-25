@@ -1,0 +1,6 @@
+Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
+- [Release notes](https://github.com/junit-team/junit4/releases)
+- [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)
+- [Commits](junit-team/junit4@r4.13...r4.13.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
